@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "item/bauxite"
+      "layer0": "item/raw_pyrite"
     }
   }

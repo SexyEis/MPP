@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "item/iridium_alloy"
+      "layer0": "item/tin_plate"
     }
   }

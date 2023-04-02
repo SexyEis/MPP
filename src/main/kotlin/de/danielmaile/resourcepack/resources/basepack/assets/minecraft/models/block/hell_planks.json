@@ -1,7 +1,7 @@
 {
   "textures": {
-    "0": "block/cracked_enderite_ore",
-    "particle": "block/cracked_enderite_ore"
+    "0": "block/hell_planks",
+    "particle": "block/hell_planks"
   },
   "elements": [
     {
@@ -54,18 +54,18 @@
         },
         "up": {
           "uv": [
-            0,
-            0,
             16,
-            16
+            16,
+            0,
+            0
           ],
           "texture": "#0"
         },
         "down": {
           "uv": [
-            0,
-            0,
             16,
+            0,
+            0,
             16
           ],
           "texture": "#0"
